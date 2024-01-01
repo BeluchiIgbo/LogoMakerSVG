@@ -1,4 +1,16 @@
 {
+  "name": "LogoMakerSVG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
